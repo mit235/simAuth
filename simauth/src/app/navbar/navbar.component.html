@@ -1,0 +1,8 @@
+
+<nav>
+    <ul>
+        <li routerLink="register" *ngIf="!isDis">Register</li>
+        <li routerLink="login" *ngIf="!isDis">Login</li>
+        <li *ngIf="isDis" routerLink="home">Home</li>
+    </ul>
+</nav> 

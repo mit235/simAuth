@@ -1,0 +1,12 @@
+li {
+    display: inline-block;
+    align-items: center;
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+nav {
+    background-color: skyblue;
+    height: 50px;
+    display: flex;
+}

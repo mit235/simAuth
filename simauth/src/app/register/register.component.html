@@ -1,0 +1,10 @@
+<h1>Register Your Self Here...</h1>
+<form [formGroup]="registerForm" (ngSubmit)="registerUser()">
+    <input type="text" formControlName="userName" placeholder="Enter Your Name">
+    <br>
+    <input type="email" formControlName="email" placeholder="Enter Your Email">
+    <br>
+    <input type="password" formControlName="password" placeholder="Enter Your password">
+    <br>
+    <button type="submit">submit</button>
+</form>

@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "userName": "Mit",
+      "email": "m@gmail.com",
+      "password": "mit",
+      "id": 1
+    },
+    {
+      "userName": "Kaushik",
+      "email": "k@gmail.com",
+      "password": "kk",
+      "id": 2
+    },
+    {
+      "userName": "vivek",
+      "email": "v@gmail.com",
+      "password": "vk",
+      "id": 3
+    },
+    {
+      "userName": "Mit",
+      "email": "m@gmail.com",
+      "password": "mit",
+      "id": 4
+    },
+    {
+      "userName": "vivek",
+      "email": "v@gmail.com",
+      "password": "646664",
+      "id": 5
+    },
+    {
+      "userName": "mit",
+      "email": "m@gmail.com",
+      "password": "rdcvghbnjmk",
+      "id": 6
+    },
+    {
+      "userName": "mitPatel",
+      "email": "mjnk@gmail.com",
+      "password": "fgsdm",
+      "id": 7
+    }
+  ]
+}
